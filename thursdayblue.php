@@ -27,10 +27,17 @@ if (time() < 1316383200) {
 else {
 	echo "<li><span style=\"margin-left:10px; margin-right:10px;\">18:30-21:50</span><span class=\"name\" style=\"padding-left:10px;\">Alg. & Datenstr.</span><span class=\"time\">(153/154)</span></li>";
 }
+
+// Hier Zimmeränderungen eintragen!
+if (date("d.m.y") == "08.09.11") {
+	echo "<li style=\"padding-top:10px; border-bottom:none;\"><span style=\"margin-left:10px; margin-right:10px;\"><b>Heute Zimmer&auml;nderung: 261</b></span></li>";
+}
+
 ?>
 
 </ul>
 <div id="footer">
+
 	<!-- Support iWebKit by sending us traffic; please keep this footer on your page, consider it a thank you for our work :-) -->
 	<a class="noeffect" href="http://snippetspace.com">Powered by iWebKit</a></div>
 
