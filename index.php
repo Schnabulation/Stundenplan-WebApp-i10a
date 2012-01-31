@@ -25,7 +25,7 @@
   <span class="graytitle">Stundenplan</span>
   <ul class="pageitem">
     <li class="textbox">
-      <p>Stundenplan der Klasse i10a, Frühlingssemester 2012</p>
+      <p>Stundenplan der Klasse i10a, Fr&Uuml;hlingssemester 2012</p>
     </li>
   </ul>
    
