@@ -21,11 +21,11 @@
 <ul>
 
 <?php
-if (time() < 1316383200) {
-	echo "<li><span style=\"margin-left:10px; margin-right:10px;\">17:30-21:50</span><span class=\"name\" style=\"padding-left:10px;\">Meth. d/Prog.</span><span class=\"time\">(153/154)</span></li>";
+if (time() < 1335100353) {
+	echo "<li><span style=\"margin-left:10px; margin-right:10px;\">16:45-2045</span><span class=\"name\" style=\"padding-left:10px;\">English (&Uuml;)</span><span class=\"time\">(ZL 04.10)</span></li>";
 }
 else {
-	echo "<li><span style=\"margin-left:10px; margin-right:10px;\">18:30-21:50</span><span class=\"name\" style=\"padding-left:10px;\">Alg. & Datenstr.</span><span class=\"time\">(153/154)</span></li>";
+	echo "<li><span style=\"margin-left:10px; margin-right:10px;\">16:45-2045</span><span class=\"name\" style=\"padding-left:10px;\">English (&Uuml;)</span><span class=\"time\">(ZL 04.01)</span></li>";
 }
 
 // Hier Zimmeränderungen eintragen!

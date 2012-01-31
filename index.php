@@ -25,7 +25,7 @@
   <span class="graytitle">Stundenplan</span>
   <ul class="pageitem">
     <li class="textbox">
-      <p>Stundenplan der Klasse i10a, Herbstsemester 2011</p>
+      <p>Stundenplan der Klasse i10a, Frühlingssemester 2012</p>
     </li>
   </ul>
    
@@ -61,7 +61,7 @@
 
 <div id="footer">
 	<!-- Support iWebKit by sending us traffic; please keep this footer on your page, consider it a thank you for our work :-) -->
-	<p class="noeffect">Version 1.1.0</p>
+	<p class="noeffect">Version 1.2.0</p>
   <a class="noeffect" href="http://snippetspace.com">Powered by iWebKit</a></div>
 
 </body>
