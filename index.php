@@ -21,7 +21,7 @@
 </div>
 
 <div id="content">
-  <div style="text-align:right; padding-right:20px;"><img height="35px" alt="logo" src="images/zhaw_logo_de.gif" /> </div>
+  <div style="text-align:right; padding-right:20px;"><img alt="logo" src="images/logo.jpg" /> </div>
   <span class="graytitle">Stundenplan</span>
   <ul class="pageitem">
     <li class="textbox">
