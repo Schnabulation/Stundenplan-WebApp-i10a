@@ -8,33 +8,30 @@ include 'header.html';
 <body>
 
 <div id="topbar">
-  <div id="title">Stundenplan i10a</div>
+  <div id="title">Study Helper</div>
 </div>
 
 <div id="content">
   <div style="text-align:right; padding-right:20px;"><img alt="logo" src="images/logo.jpg" /> </div>
-  <span class="graytitle">Stundenplan</span>
+  <span class="graytitle">Study Helper</span>
   <ul class="pageitem">
     <li class="textbox">
-      <p>Stundenplan der Klasse i10a, Fr&uuml;hlingssemester 2012</p>
+      <p>Study Helper mit Stundenplan, im Rahmen der Seminararbeit 2013 von Steve Heller</p>
     </li>
   </ul>
    
   <ul class="pageitem">
     <li class="menu">
-      <a href="tuesday.html"><span class="name">Dienstag</span><span class="arrow"> </span></a>
+      <a href="timetable.html"><span class="name">Stundenplan</span><span class="arrow"> </span></a>
     </li>
     <li class="menu">
-      <a href="wednesday.html"><span class="name">Mittwoch</span><span class="arrow"> </span></a>
+      <a href="homework.html"><span class="name">Hausaufgaben</span><span class="arrow"> </span></a>
     </li>
     <li class="menu">
-    	<a href="thursday.html"><span class="name">Donnerstag</span><span class="arrow"> </span></a>
-    </li>   
-  </ul>
-  
-    <ul class="pageitem">
-    <li class="menu">
-      <a href="blueweeks.html"><span class="name">Blaue Wochen</span><span class="arrow"> </span></a>
+    	<a href="dates.html"><span class="name">Termine</span><span class="arrow"> </span></a>
+    </li>  
+        <li class="menu">
+    	<a href="grades.html"><span class="name">Noten</span><span class="arrow"> </span></a>
     </li>  
   </ul>
   
